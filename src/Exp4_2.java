@@ -10,8 +10,7 @@ public class Exp4_2 {
 				max=num;
 			}
 		}
-		
-			System.out.println("最大値は"+max+"です");
+		System.out.println("最大値は"+max+"です");
 	}
 
 }
